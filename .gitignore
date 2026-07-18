@@ -1,0 +1,6 @@
+node_modules/
+.env
+*.log
+
+# Local backend database for development
+backend/data/
